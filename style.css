@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(207, 148, 148);
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+}
+
+input{
+    background: rgb(219, 205, 205);
+    padding: 5px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+}
+
+/* Footer */
+footer{
+    background-color: rgb(253, 251, 251);
+    height: 10vh;
+}
+
+footer p{
+text-align: center;
+line-height: 10vh;
+}
+
